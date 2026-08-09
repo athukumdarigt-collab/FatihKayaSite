@@ -1,0 +1,90 @@
+
+body{
+    background-image: url("AnaSayfaBackground.png");
+    font-family: cursive;
+}
+
+
+.ustbar{
+    background-color: wheat;
+    height: 70px;
+    background-color: rgba(245, 222, 179, 0.5);
+    border-radius: 20px;
+    display: flex;
+    display: flex;
+    gap: 10px;
+    justify-content: space-between;
+    align-items: centera;
+    padding: 0 15px;
+}
+
+.ustbtn{
+   
+    padding: 10px 20px;
+    display: flex ;
+    gap: 10px;
+
+     
+}
+
+.btnust{
+    width: 100px;
+    border-radius: 20px;
+    border:none;
+    background-color: wheat;
+    text-align: center;
+    padding-top: 12px;
+    color: black;
+}
+
+.btnust:hover{
+    background-color: rgb(255, 197, 90);
+    transition: background-color 1s;
+}
+
+.btnust:active{
+    opacity: 0.5;
+}
+
+#profil{
+    border-radius: 100px;
+    width: 60px;
+    height: 60px;
+    padding-top: 5px;
+    margin-left: 68%;
+   
+}
+
+#profilLink{
+    margin-right: 60px;
+}
+
+#iletisimbilgi{
+    background-color: rgba(245, 222, 179, 0.5);
+    margin-left: 10px;
+    width: 600px;
+    border-radius: 10px;
+}
+
+a{
+    text-decoration: none;
+    font-family: cursive;
+}
+
+#hakkinda{
+   background-color: rgba(245, 222, 179, 0.5);
+    margin-left: 10px;
+    width: 600px;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
